@@ -1,11 +1,10 @@
+# Activities from the course '''Statistics with Python'''
 
-# Atividades do curso de estatística com Python
+[Part 1] (https://www.alura.com.br/curso-online-estatistica-distribuicoes-e-medidas): Frequencies and Measures
 
-[Parte 1](https://www.alura.com.br/curso-online-estatistica-distribuicoes-e-medidas): Frequências e Medidas
-
-[Parte 2](https://www.alura.com.br/curso-online-estatistica-probabilidade-e-amostragem): Probabilidade e Amostragem
+[Part 2] (https://www.alura.com.br/curso-online-estatistica-probabilidade-e-amostragem): Probability and Sampling
 
 
-[Parte 3](https://www.alura.com.br/curso-online-estatistica-testes-hipotestes): Testes de hipóteses
+[Part 3] (https://www.alura.com.br/curso-online-estatistica-testes-hipotestes): Hypothesis tests
 
-[Parte 4](https://www.alura.com.br/curso-online-estatistica-correlacao-regressao): Correlação e Regressão
+[Part 4] (https://www.alura.com.br/curso-online-estatistica-correlacao-regressao): Correlation and Regression
