@@ -1,4 +1,4 @@
-# Activities from the course '''Statistics with Python'''
+# Activities from the course "Statistics with Python"
 
 [Part 1] (https://www.alura.com.br/curso-online-estatistica-distribuicoes-e-medidas): Frequencies and Measures
 
