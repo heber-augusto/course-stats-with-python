@@ -6,4 +6,4 @@
 
  - [Part 3](./part-3/): Hypothesis tests ([curso alura](https://www.alura.com.br/curso-online-estatistica-testes-hipotestes));
 
- - [Part 4](./part-4/): Correlation and Regression ([curso alura](https://www.alura.com.br/curso-online-estatistica-correlacao-regressao))
+ - [Statistics tests](./statistics-tests/): Correlation and Regression ([curso alura](https://www.alura.com.br/curso-online-estatistica-correlacao-regressao))
